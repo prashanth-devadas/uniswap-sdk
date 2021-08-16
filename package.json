@@ -1,6 +1,7 @@
 {
   "name": "uniswap",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ethersproject/address": "^5.4.0",
+    "@ethersproject/contracts": "^5.4.1",
+    "@ethersproject/providers": "^5.4.3",
+    "@ethersproject/solidity": "^5.4.0",
     "@uniswap/sdk": "^3.0.3"
   }
 }
