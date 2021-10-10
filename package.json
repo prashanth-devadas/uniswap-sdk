@@ -15,6 +15,7 @@
     "@ethersproject/contracts": "^5.4.1",
     "@ethersproject/providers": "^5.4.3",
     "@ethersproject/solidity": "^5.4.0",
-    "@uniswap/sdk": "^3.0.3"
+    "@uniswap/sdk": "^3.0.3",
+    "ethers": "^5.4.4"
   }
 }
